@@ -1,4 +1,3 @@
 # Kessel_Run AI | rayrock92610
-[Live Landing →](index.html)
-
-Termux-native AI agent runtime.
+**Live:** https://rayrock92610.github.io/Kessel_Run/landing/index.html
+Termux-native AI runtime. GP-API intel, London Bridge Sentinel.
